@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0034)http://21yunmod0198.view.55hl.net/ -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>首页</title>
+<meta content="test" name="keywords">
+<meta content="test" name="description">
+
+
+<link href="http://21yunmod0198.view.55hl.net/upfile/files/favicon.ico" type="image/x-icon" rel="icon">
+<link href="http://21yunmod0198.view.55hl.net/upfile/files/favicon.ico" type="image/x-icon" rel="shortcut icon">
+<link type="text/css" rel="stylesheet" href="/site_media/style.css">
+<link type="text/css" rel="stylesheet" href="/site_media/upDateStyle.css">
+<link type="text/css" rel="stylesheet" href="/site_media/gerenjianjie.css">
+<script type="text/javascript">
+window.top["BNPage"]=0;
+</script>
+<script type="text/javascript" src="/site_media/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/site_media/offlights.js"></script>
+<script type="text/javascript" src="/site_media/ckplayer.js" charset="utf-8"></script>
+<script type="text/javascript" src="/site_media/md5.js"></script>
+<script type="text/javascript" src="/site_media/style.js"></script>
+<script type="text/javascript" src="/site_media/updateStyle.js"></script>
+<script type="text/javascript" src="/site_media/api"></script><script type="text/javascript" src="/site_media/getscript"></script>
+<style type="text/css">
+body{ 
+background-image:url(/site_media/bg000.jpg);background-repeat:repeat;
+}
+</style>
+
+<link rel="stylesheet" type="text/css" href="/site_media/gray.css">
+
+</head>
+<body>
+	
+<div id="BNreturnTopDiv"></div>
+<div class="fwtop">
+<div class="fwtop_head">
+  <div class="fwtop_logo">
+    <div class="top_logo" id="top_logo">
+		<img src="/site_media/cg6_01.jpg" width="1002" height="169" alt="网站Logo" title="test">
+	</div>
+
+</div>
+  	<div class="fwtop_info" src = "/site_media/cg6_01.jpg">
+    
+  	</div>
+  	<div class="clear"></div>
+</div>
+  <div class="fwtop_mainNav">
+    <div class="siteMainNav fwtop_nav fwnavlink" id="siteMainNav">
+		<ul>
+			<li class="open"><a href="/geo/index">网站首页</a></li>
+			<li><a href="/geo/chengguojianjie">成果简介</a></li>
+			<li><a href="/geo/zywcr">主要完成人</a></li>
+			<li><a href="#">完成单位</a></li>
+			<li><a href="#">推荐单位意见</a></li>
+			<li><a href="#">成果总结</a></li>
+			<li><a href="#">教材建设</a></li>
+			<li><a href="#">支撑材料</a></li>
+		</ul>
+<div class="clear"></div>
+</div>
+  </div>
+  <div class="clear"></div>
+  <div class="fwtop_banner">
+    <div class="siteBanner" id="siteBanner">
+	<div class="fwmain">
+      <div id="edit_putHere_area3" class="fwmain_right edit_putHere" savetitle="area3">
+      	<div class="label clear" id="680" rel="680" titles="文章列表">
+			<div class="label_head">
+				<div class="label_title">个人资料</div>
+			</div>
+			<div class="label_content">
+		<div class="pic_list1 pic_list_roll" id="pic_list603">
+			<ul class="clearfix" id="prolist603">
+				<li>
+					<a title="颜丹平" href=""><img src="/site_media/{{teacher.id}}.jpg" style=" width:350px; height:400px; margin-left:15px;" alt="">
+					 </a>
+				</li>
+				<li>
+					<div class = "spjj"> 
+					姓&nbsp;&nbsp;&nbsp;&nbsp;名：{{teacher.name}}<br />
+                    出生年月：{{teacher.birthday}}<br />
+                    籍&nbsp;&nbsp;&nbsp;&nbsp;贯：湖南{{teacher.come_from}}<br />
+                    性&nbsp;&nbsp;&nbsp;&nbsp;别：{{teacher.sex}}<br />
+					</div>
+					
+				</li>
+				<li>
+					<div class = "shijijianjie"> 
+						<div class = "shijiziti"> {{teacher.name}}（{{teacher.birth}}－今），{{teacher.sex}}，{{teacher.describe}}</div>
+					</div>
+				</li>
+				
+			<div class="clear"></div>
+			</ul>
+		</div>
+	</div>
+	<div class="label_foot"></div>
+</div>
+
+		</div>
+  	 
+    <div class="clear"></div>
+    <div id="edit_putHere_area4" class="fwmain_total edit_putHere" savetitle="area4">
+      <div class="label clear" id="681" rel="681" titles="产品列表">
+	<div class="label_head">
+		<div class="label_title"><a href="/geo/zywcr">主要完成人</a></div>
+	</div>
+	<div class="label_content">
+		<div class="pic_list1 pic_list_roll" id="pic_list681">
+			<div class="tempWrap" style="overflow:hidden; position:relative; width:931px">
+				<ul class="clearfix" id="prolist681" style="width: 2128px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -1144px;">
+					<!--<li class="clone" style="float: left; width: 133px;">
+						<a title="张XX" href="http://acm.cugb.edu.cn">
+							<img src="/site_media/3.jpg" style=" width:110px; height:100px;" alt="">
+							<p class="title">
+								王根厚
+							</p>
+						</a>
+					</li>-->
+			{% for t in teacherList %}
+        		<li style="float: left; width: 133px;">
+		    		<a title="{{t.name}}" href="#">
+		    			<img src="/site_media/t.picName.jpg" style=" width:110px; height:100px;" alt="">
+						<p class="title">
+							{{t.name}}
+						</p>
+					</a>	
+				</li>
+    		{% endfor %}
+
+			
+			<!--<li style="float: left; width: 133px;">
+		    <a title="张XX" href="#"><img src="/site_media/3.jpg" style=" width:110px; height:100px;" alt="">
+					<p class="title">李胜荣</p></a>
+				</li>
+				<li style="float: left; width: 133px;">
+		    <a title="张XX" href="#"><img src="/site_media/4.jpg" style=" width:110px; height:100px;" alt="">
+					<p class="title">陈建强</p></a>
+				</li>
+				<li style="float: left; width: 133px;">
+		    <a title="张XX" href="#"><img src="/site_media/5.jpg" style=" width:110px; height:100px;" alt="">
+					<p class="title">薛春纪</p></a>
+				</li>
+				<li style="float: left; width: 133px;">
+		    <a title="张XX" href="#"><img src="/site_media/6.jpg" style=" width:110px; height:100px;" alt="">
+					<p class="title">于炳松</p></a>
+				</li>
+				<li style="float: left; width: 133px;">
+		    <a title="张XX" href="#"><img src="/site_media/7.jpg" style=" width:110px; height:100px;" alt="">
+					<p class="title">许虹</p></a>
+				</li>
+				<li style="float: left; width: 133px;">
+		    <a title="张XX" href="#"><img src="/site_media/8.jpg" style=" width:110px; height:100px;" alt="">
+					<p class="title">申俊峰</p></a>
+				</li>
+				<li style="float: left; width: 133px;">
+		    <a title="张XX" href="#"><img src="/site_media/9.jpg" style=" width:110px; height:100px;" alt="">
+					<p class="title">赵志丹</p></a>
+				</li>
+				-->
+			</ul>
+		</div>
+		</div>
+	</div>
+	<div class="label_foot"></div>
+</div>
+<script type="text/javascript">jQuery('#pic_list681').slide({ mainCell:'ul',autoPlay:true,effect:'leftMarquee',interTime:50,vis:7  });</script>
+
+    </div>
+    <div class="clear"></div>
+</div>
+	<div class="fwbottom">
+		<div class="fwbottom_bottomInfo">
+			<div class="bottomInfo clear">
+	<p align="center">
+	<span style="color:#000;">版权所有 Copyright(C)20013-2014 中国地质大学（北京）</span> 
+</p>
+</div>
+
+		</div>
+        
+	</div>
+<!-----------------右侧工具条BEGIN-------------------------->
+
+<!--QQ-->
+</body></html>

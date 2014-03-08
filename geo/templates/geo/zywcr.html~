@@ -1,0 +1,321 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>首页</title>
+<meta content="test" name="keywords">
+<meta content="test" name="description">
+
+
+
+<link type="text/css" rel="stylesheet" href="/site_media/style.css">
+<link type="text/css" rel="stylesheet" href="/site_media/upDateStyle.css">
+<script type="text/javascript">
+window.top["BNPage"]=0;
+</script>
+<script type="text/javascript" src="/site_media/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/site_media/offlights.js"></script>
+<script type="text/javascript" src="/site_media/ckplayer.js" charset="utf-8"></script>
+<script type="text/javascript" src="/site_media/md5.js"></script>
+<script type="text/javascript" src="/site_media/style.js"></script>
+<script type="text/javascript" src="/site_media/updateStyle.js"></script>
+<script type="text/javascript" src="/site_media/lightbox.js"></script>
+<script type="text/javascript" src="/site_media/lightbox_video.js"></script>
+<script type="text/javascript" src="/site_media/api"></script><script type="text/javascript" src="/site_media/getscript"></script>
+<style type="text/css">
+body{ 
+background-image:url(/site_media/bg000.jpg);background-repeat:repeat;
+}
+</style>
+
+<link rel="stylesheet" type="text/css" href="/site_media/gray.css">
+
+</head>
+<body>
+	
+<div id="BNreturnTopDiv"></div>
+<div class="fwtop">
+<div class="fwtop_head">
+  <div class="fwtop_logo">
+    <div class="top_logo" id="top_logo">
+		<img src="/site_media/cg6_01.jpg" width="1002" height="169" alt="网站Logo" title="test">
+	</div>
+
+</div>
+  	<div class="fwtop_info" src = "/site_media/cg6_01.jpg">
+    
+  	</div>
+  	<div class="clear"></div>
+</div>
+  <div class="fwtop_mainNav">
+    <div class="siteMainNav fwtop_nav fwnavlink" id="siteMainNav">
+	<ul>
+		<li class="open"><a href="../index">网站首页</a></li>
+		<li><a href="../chengguojianjie">成果简介</a></li>
+		<li><a href="#">主要完成人</a></li>
+		<li><a href="#">完成单位</a></li>
+        <li><a href="#">推荐单位意见</a></li>
+		<li><a href="#">成果总结</a></li>
+		<li><a href="#">教材建设</a></li>
+		<li><a href="#">支撑材料</a></li>
+	</ul>
+<div class="clear"></div>
+</div>
+  </div>
+  <div class="clear"></div>
+  <div class="fwtop_banner">
+    <div class="siteBanner" id="siteBanner">
+<div class="fwmain">
+	<div class="fwmain_nright edit_putHere" id="edit_putHere_area2" savetitle="area2">
+			<div class="label clear" id="603" rel="603" titles="产品列表">
+	<div class="label_head1">
+		<div class="label_title1"> 主要完成人 </div>
+	</div>
+	<div class="label_content">
+		<div class="pic_list1 pic_list_roll" id="pic_list603">
+			<ul class="clearfix" id="prolist603">
+				<li>
+					<a title="颜丹平" href=""><img src="/site_media/yandanping.jpg" style=" width:150px; height:190px; margin-left:15px;" alt="">
+					 </a>
+				</li>
+				<li>
+					<div class = "miaoshu"> 
+						<div class = "mingzi">颜丹平</div>
+						<div class = "miaoziti"> 颜丹平，博士，中国地质大学（北京）教授、博导，国家级教学名师。出生于1964.09 ，籍贯湖南。
+						2014年1月13日获得我国地质科学领域最高荣誉——李四光地质科学奖。<a  href = "#">>>查看详情</a></div>
+					</div>
+					
+				</li>
+				<li>
+					<a title="薛春纪" href=""><img src="/site_media/xuechunji.png" style=" width:150px; height:190px; margin-left:15px;" alt="">
+					 </a>
+				</li>
+			
+				<li>
+					<div class = "miaoshu"> 
+						<div class = "mingzi">薛春纪</div>
+						<div class = "miaoziti"> 薛春纪，男，1962年生，陕西眉县人，教授，地学专家、博士生导师。
+						现任中国地质大学地质过程与矿产资源国家重点实验室副主任。<a  href = "#">>>查看详情</a></div>
+					</div>
+					
+				</li>
+				<li>
+					<a title="于炳松" href=""><img src="/site_media/yubingsong.jpg" style=" width:150px; height:190px; margin-left:15px;" alt="">
+				 </a>
+				</li>
+				<li>
+					<div class = "miaoshu"> 
+						<div class = "mingzi">于炳松</div>
+						<div class = "miaoziti"> 于炳松（1962.11－今），男，浙江省德清县人，中共党员。1991年和1994年在中国地质大学（北京）分别获理学硕士和博士学位
+				<a  href = "#">>>查看详情</a></div>
+					</div>
+					
+				</li>
+				<li>
+					<a title="李胜荣" href=""><img src="/site_media/lishengrong.png" style=" width:150px; height:190px; margin-left:15px;" alt="">
+					 </a>
+				</li>
+				<li>
+					<div class = "miaoshu"> 
+						<div class = "mingzi">李胜荣</div>
+						<div class = "miaoziti"> 李胜荣，男，出生于1956年10月14日，山西省高平市人，博士。
+						现任中国地质大学地球科学与资源学院教授、博士生导师，岩石与矿物教研室主任。<a  href = "#">>>查看详情</a></div>
+					</div>
+					
+				</li>
+				<li>
+					<a title="申俊峰" href=""><img src="/site_media/shenjunfeng.png" style=" width:150px; height:190px; margin-left:15px;" alt="">
+					 </a>
+				</li>
+				<li>
+					<div class = "miaoshu"> 
+						<div class = "mingzi">申俊峰</div>
+						<div class = "miaoziti"> 申俊峰,男，1962年10月出生,  内蒙古土左旗人，博士，教授（博导）。
+						中国著名地质学教授，有丰富的地质勘探经验。<a  href = "#">>>查看详情</a></div>
+					</div>
+					
+				</li>
+				<li>
+					<a title="许虹" href=""><img src="/site_media/xuhong.png" style=" width:150px; height:190px; margin-left:15px;" alt="">
+					 </a>
+				</li>
+				<li>
+					<div class = "miaoshu"> 
+						<div class = "mingzi">许虹</div>
+						<div class = "miaoziti"> 许虹，女，1958年5月出生，教授，博士。研究方向：矿物学、矿床地球化学
+硕士研究生。			招生方向：成因矿物学和找矿矿物学、矿床地球化学<a  href = "#">>>查看详情</a></div>
+					</div>
+					
+				</li>
+				<li>
+					<a title="赵志丹" href=""><img src="/site_media/zhaozhidan.jpg" style=" width:150px; height:190px; margin-left:15px;" alt="">
+					 </a>
+				</li>
+				<li>
+					<div class = "miaoshu"> 
+						<div class = "mingzi">赵志丹</div>
+						<div class = "miaoziti"> 赵志丹，博士，教授，博士生导师。岩石学和地球化学专业，地球科学与资源学院副院长。
+						研究方向：区域岩石圈地球化学，岩石地球化学<a  href = "#">>>查看详情</a></div>
+					</div>
+					
+				</li>
+				<li>
+					<a title="王根厚" href=""><img src="/site_media/wanggenhou.png" style=" width:150px; height:190px; margin-left:15px;" alt="">
+					 </a>
+				</li>
+				<li>
+					<div class = "miaoshu"> 
+						<div class = "mingzi">王根厚</div>
+						<div class = "miaoziti"> 王根厚，男，1963年7月出生，教授，博士生导师，地球科学与资源学院院长，博士。
+						研究方向：区域构造与显微构造、构造定量化与数值模拟、应用构造。<a  href = "#">>>查看详情</a></div>
+					</div>
+					
+				</li>
+				<li>
+					<a title="陈建强" href=""><img src="/site_media/chenjianqiang.png" style=" width:150px; height:190px; margin-left:15px;" alt="">
+					 </a>
+				</li>
+				<li>
+					<div class = "miaoshu"> 
+						<div class = "mingzi">陈建强</div>
+						<div class = "miaoziti"> 陈建强，男，1957年5月出生，教授。
+						研究方向：古生物学与地层学、沉积学与古地理学、第四纪地质学。<a  href = "#">>>查看详情</a></div>
+					</div>
+					
+				</li>
+				
+			<div class="clear"></div>
+			</ul>
+		</div>
+	</div>
+	<div class="label_foot"></div>
+</div>
+
+		</div>
+  	 
+    <div class="clear"></div>
+    <div id="edit_putHere_area4" class="fwmain_total edit_putHere" savetitle="area4">
+     	<div class="label clear" id="681" rel="681" titles="主要完成人">
+			<div class="label_head">
+				<div class="label_title"> <a href="jcjs.html">主要完成人</a></div>
+			</div>
+			<div class="label_content">
+				<div class="pic_list1 pic_list_roll" id="pic_list681">
+					<div class="tempWrap" style="overflow:hidden; position:relative; width:931px">
+						<ul class="clearfix" id="prolist681" style="width: 2128px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -1144px;">
+							<li class="clone" style="float: left; width:144px;">
+								<a title="王根厚" href="http://acm.cugb.edu.cn"><img src="/site_media/3.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">王根厚</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="闫丹平" href="#"><img src="/site_media/2.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">闫丹平</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="李胜荣" href="#"><img src="/site_media/3.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">李胜荣</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="陈建强" href="#"><img src="/site_media/4.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">陈建强</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="薛春纪" href="#"><img src="/site_media/5.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">薛春纪</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="于炳松" href="#"><img src="/site_media/6.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">于炳松</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="许虹" href="#"><img src="/site_media/7.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">许虹</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="申俊峰" href="#"><img src="/site_media/8.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">申俊峰</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+					    		<a title="赵志丹" href="#"><img src="/site_media/9.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">赵志丹</p></a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="label_foot"></div>
+		</div>
+		<script type="text/javascript">jQuery('#pic_list681').slide({ mainCell:'ul',autoPlay:true,effect:'leftMarquee',interTime:50,vis:7  });
+		</script>
+    </div>
+    <div class="clear"></div>
+    <div id="edit_putHere_area4" class="fwmain_total edit_putHere" savetitle="area4">
+     	<div class="label clear" id="681" rel="681" titles="教材建设">
+			<div class="label_head">
+				<div class="label_title"> <a href="zuwcr.html">教材建设</a></div>
+			</div>
+			<div class="label_content">
+				<div class="pic_list1 pic_list_roll" id="pic_list682">
+					<div class="tempWrap" style="overflow:hidden; position:relative; width:931px">
+						<ul class="clearfix" id="prolist681" style="width: 2128px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -1144px;">
+							<li class="clone" style="float: left; width:144px;">
+								<a title="张XX" href="http://acm.cugb.edu.cn"><img src="/site_media/3.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">王根厚</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="张XX" href="#"><img src="/site_media/2.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">闫丹平</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="张XX" href="#"><img src="/site_media/3.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">李胜荣</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="张XX" href="#"><img src="/site_media/4.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">陈建强</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="张XX" href="#"><img src="/site_media/5.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">薛春纪</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="张XX" href="#"><img src="/site_media/6.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">于炳松</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="张XX" href="#"><img src="/site_media/7.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">许虹</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+				    			<a title="张XX" href="#"><img src="/site_media/8.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">申俊峰</p></a>
+							</li>
+							<li style="float: left; width:144px;">
+					    		<a title="张XX" href="#"><img src="/site_media/9.jpg" style=" width:145px; height:130px;" alt="">
+								<p class="title">赵志丹</p></a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="label_foot"></div>
+		</div>
+		<script type="text/javascript">jQuery('#pic_list682').slide({ mainCell:'ul',autoPlay:true,effect:'leftMarquee',interTime:50,vis:7  });
+		</script>
+    </div>
+    <div class="clear"></div>
+</div>
+	<div class="fwbottom">
+		<div class="fwbottom_bottomInfo">
+			<div class="bottomInfo clear">
+	<p align="center">
+	<span style="color:#000;">版权所有 Copyright(C)20013-2014 中国地质大学（北京）</span> 
+</p>
+</div>
+
+		</div>
+        
+	</div>
+<!-----------------右侧工具条BEGIN-------------------------->
+
+<!--QQ-->
+</body></html>

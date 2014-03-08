@@ -1,0 +1,9 @@
+{% if teacherList %}
+    <ul>
+    {% for teacher in teacherList %}
+        <li><a href="/geo/teacherList/{{ teacher.id }}/teacher">{{ teacher.name }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No teacher are available.</p>
+{% endif %}
